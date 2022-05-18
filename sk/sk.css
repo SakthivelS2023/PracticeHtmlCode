@@ -1,0 +1,46 @@
+/* body{
+    background-image: url(car.jfif);
+    background-repeat:no-repeat ;
+    background-attachment: fixed;
+}
+th{  
+    border: 5px solid red;  
+    background-color: yellow;  
+    }  
+    td{  
+    border: 5px solid violet;  
+    background-color: cyan;  
+    }  
+#t1{
+    border-collapse:inherit;
+}
+p{
+    display: none;
+}
+button{
+    color: lawngreen;
+}
+.a{
+    background-color: black;
+    border: red dotted;
+    border-radius: 10px;
+    padding: 16px;
+}
+img{
+    float:center;
+}
+.b{
+    
+    background-color: black;
+    border-radius: 20px;
+    border: blue dotted;
+    padding: 20px;
+}
+.click{
+    margin: 10px;
+    height: 100px;
+    width: 400px;
+    background-color: rgb(236, 227, 227);
+    padding: 10px;
+    align-content: center;
+} */

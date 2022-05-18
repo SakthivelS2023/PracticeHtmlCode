@@ -1,0 +1,23 @@
+.center{
+    padding: 50px;
+    margin: auto;
+    height: 400px;
+    width: 400px;
+    outline: dashed red;
+    align-content: center;
+    justify-content: center;
+}
+.ch{
+    padding: 70px;
+    height: 200px;
+    width: 200px;
+    margin: auto;
+    outline: dotted blue;
+    
+    justify-content: center;
+    display: flex;
+    
+}
+p{
+    text-align: center;
+}
